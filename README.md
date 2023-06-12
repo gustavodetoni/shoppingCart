@@ -1,18 +1,5 @@
-## Getting Started
+## Shopping Cart
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Faremos a implementação de uma versão simplificada de um carrinho de compras de um
+determinado site. Os dados dos produtos estão em um arquivo chamado “PRODUTOS.TXT” e cada linha do
+arquivo representa um produto do estoque, com as informações separadas por ponto-evírgula.
