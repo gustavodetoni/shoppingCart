@@ -48,7 +48,6 @@ public class App {
             } sc.close();
                 Carrinho carrinho = new Carrinho(itens, 10);
                 carrinho.mostraCarrinho();
-
             } catch (Exception e) {
                 e.printStackTrace();
             }
