@@ -7,7 +7,6 @@ public class App {
     public static void main(String[] args) throws Exception {
         ArrayList<Produto> produtos = new ArrayList<>();
         Scanner sc = new Scanner(System.in);
-
         try(BufferedReader linha = new BufferedReader(new FileReader("listaProdutos.txt"))){
             String aux = linha.readLine();
             while(aux != null) {    
@@ -18,6 +17,10 @@ public class App {
             }
             System.out.println("Arquivo lido com sucesso!");
             System.out.println("========= Carrinho de comprar =========");
+            System.out.println("|       1- Ver Lista de Produtos      |");
+            System.out.println("|       2- Adicionar ao carrinho      |");
+            System.out.println("|       3- Ver carrinho               |");
+            System.out.println("=======================================");
             int codigoDigitado = 0;
             ArrayList<itemCompra> itens = new ArrayList<>();
             while(codigoDigitado != 0) {

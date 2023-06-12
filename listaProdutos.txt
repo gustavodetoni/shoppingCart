@@ -1,20 +1,20 @@
-12345;Tesoura Molin 17Cm Blue Titanium;25.67
-67890;Conjunto Geométrico Super Molin C/4;17.39
-56478;Caderno Universitário Espiral 200 ;32.11
-10000;Caneta Escreve e Apaga Frixion 0,7mm;15.90
-20000;Bloco autoadesivo Post-it amarelo;28.80
-30000;Caderno executivo 96fl Viva rosa;35.30
-40000;Borracha técnica Dust Free Faber;6.60
-50000;Cola em bastão 20g Pritt grande;11.20
-60000;Estojo Escolar PVC Preto/branco;59.90
-70000;Lápis de Cor Aquarelável 24 Cores;54.40
-80000;Lapiseira 0.7mm Azul + Tubo Grafite;28.60
-90000;Pincel marca texto amarelo Oval;2.60
-11111;Caneta Esferográfica BIC Cristal;15.10
-22222;Papel Sulfite Chamequinho A4 75g;9.40
-33333;Bloco desenho A4 branco 180g Canson;12.00
-44444;Apontador Croc Sapo com depósito;10.70
-55555;Caderno universitário capa dura 96fl;9.50
-66666;Tesoura Sensoft 3D para canhoto;14.70
-77777;Massa p/modelar 180g c/12 cores;5.60
-88888;Giz de cera 12 cores gizão Acrilex;9.90
+1;Tesoura Molin 17Cm Blue Titanium;25.67
+2;Conjunto Geométrico Super Molin C/4;17.39
+3;Caderno Universitário Espiral 200 ;32.11
+4;Caneta Escreve e Apaga Frixion 0,7mm;15.90
+5;Bloco autoadesivo Post-it amarelo;28.80
+6;Caderno executivo 96fl Viva rosa;35.30
+7;Borracha técnica Dust Free Faber;6.60
+8;Cola em bastão 20g Pritt grande;11.20
+9;Estojo Escolar PVC Preto/branco;59.90
+10;Lápis de Cor Aquarelável 24 Cores;54.40
+11;Lapiseira 0.7mm Azul + Tubo Grafite;28.60
+12;Pincel marca texto amarelo Oval;2.60
+13;Caneta Esferográfica BIC Cristal;15.10
+14;Papel Sulfite Chamequinho A4 75g;9.40
+15;Bloco desenho A4 branco 180g Canson;12.00
+16;Apontador Croc Sapo com depósito;10.70
+17;Caderno universitário capa dura 96fl;9.50
+18;Tesoura Sensoft 3D para canhoto;14.70
+19;Massa p/modelar 180g c/12 cores;5.60
+20;Giz de cera 12 cores gizão Acrilex;9.90
