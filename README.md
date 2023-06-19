@@ -4,13 +4,13 @@ Este projeto implementa um carrinho de compras em Java, permitindo aos usuários
 
 ### Funcionalidades
 
-Visualizar lista de produtos disponíveis.
+1. Visualizar lista de produtos disponíveis
 
-![resultshop](https://github.com/gustavodetoni/shoppingCart/assets/106715191/0bf78933-7096-4ba4-a7c7-7304590c7e8c)
+![resultshop](https://github.com/gustavodetoni/shoppingCart/assets/106715191/25930066-27d2-4212-8bbc-7c7a1f920f70)
 
-Adicionar produtos ao carrinho de compras.
+2. Adicionar produtos ao carrinho de compras
 
-Visualizar o conteúdo do carrinho de compras.
+3. Visualizar o conteúdo do carrinho de compras
 
 ![resultshoppingcart](https://github.com/gustavodetoni/shoppingCart/assets/106715191/5f27d661-115b-4160-b658-8fb950c4a6e0)
 
