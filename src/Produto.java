@@ -8,4 +8,9 @@ public class Produto {
         this.descricao = descricao;
         this.preco = preco;
     }
+
+    @Override
+    public String toString() {
+        return "Código: " + codigo + ", descrição: " + descricao + ", preço: " + preco;
+    }
 }
